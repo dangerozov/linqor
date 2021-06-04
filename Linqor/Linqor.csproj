@@ -17,8 +17,7 @@
         <RepositoryUrl>https://github.com/dangerozov/linqor</RepositoryUrl>
 
         <LangVersion>9.0</LangVersion>
-        <TargetFrameworks>netstandard1.6.1</TargetFrameworks>
-        <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
+        <TargetFramework>netstandard1.0</TargetFramework>
     </PropertyGroup>
     <ItemGroup>
         <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
